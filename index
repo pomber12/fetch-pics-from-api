@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+
+    <main>
+        <div class="container">
+          <header>
+		  
+		   <link rel="stylesheet" href="MainCss.css">
+		  
+            <h1>Dog Viewer</h1>
+    
+          </header>
+        </div>
+        <div class="img-container">
+          <div class="container">
+            <div class="spinner">
+            </div>
+            <!--One of the main url src-->
+            <img
+              src="http://placecorgi.com/260/180"
+              class="dog-img show"
+              alt="friendly and intimate - man's best friend"
+            />
+          </div>
+        </div>
+      </main>
+	  
+	   <script  src="MainJs.js"></script>
+	  
+	  </body>
+</html> 
